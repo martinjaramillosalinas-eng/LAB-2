@@ -2,7 +2,7 @@
 
 Laboratorio 2 - POO 2026-2
 
-Integrante: Martin
+Integrante: Martin Jaramillo
 
 ## Como correrlo
 
